@@ -1,4 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)I'm Thomas Fisher
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I'm Thomas Fisher
 =====================================================================================================================================
 
 Software Developer - C# | C++ | Unity
@@ -11,7 +11,7 @@ Recently, I've been working with XR tech at Masters of Pie, where I've been heav
 * 🌍  I'm based in Swansea, United Kingdom
 * 🖥️  See my portfolio at [https://thomasfisherse.github.io/](http://thomasfisherse.github.io/)
 * ✉️  You can contact me at [t.d.fisher.se@gmail.com](mailto:t.d.fisher.se@gmail.com)
-* 🚀  I'm currently working on [BaristaAI](http://thomasfisherse.github.io/2025-01-10-BaristaAI/)
+* 🚀  I'm currently working on [BaristaAI](http://thomasfisherse.github.io/2025-01-10-BaristaAI/) - an AI assistant to help with coffee brewing
 * ⚡  Passionate about writing clean, elegant code to solve complex problems
 
 <a href="https://www.github.com/ThomasFisherSE" target="_blank" rel="noreferrer"><img
