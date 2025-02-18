@@ -11,8 +11,9 @@ Recently, I've been working with XR tech at Masters of Pie, where I've been heav
 * 🌍  I'm based in Swansea, United Kingdom
 * 🖥️  See my portfolio at [https://thomasfisherse.github.io/](http://thomasfisherse.github.io/)
 * ✉️  You can contact me at [t.d.fisher.se@gmail.com](mailto:t.d.fisher.se@gmail.com)
-* 🚀  I'm currently working on [BaristaAI](http://thomasfisherse.github.io/2025-01-10-BaristaAI/) - an AI assistant to help with coffee brewing
-* ⚡  Passionate about writing clean, elegant code to solve complex problems
+* 🚀  I'm currently working on...
+  * [BaristaAI](http://thomasfisherse.github.io/2025-01-10-BaristaAI/) - an AI assistant to help with coffee brewing
+  * [ActivityPlanner](https://thomasfisherse.github.io/2024-12-10-ActivityPlanner/) - an itinerary planner app, mainly for planning my Disney parks holidays
 
 <a href="https://www.github.com/ThomasFisherSE" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/ThomasFisherSE?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
@@ -26,4 +27,5 @@ src="https://img.shields.io/github/followers/ThomasFisherSE?logo=github&style=fo
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/ThomasFisherSE" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/ThomasFisherSE" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a> <a href="https://www.youtube.com/@ThomasFisherSE" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /> </picture> </a></p>
+
 
