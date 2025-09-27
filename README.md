@@ -3,28 +3,34 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 Software Developer - C# | C++ | Unity
 -------------------------------------
-
-I started out learning to code by making small Flash-based browser games while at school. I went on to obtain a Master's degree in Computing (MEng) from Swansea University, and then started my professional career in software development working at Rockfield and Masters of Pie. 
-
-Recently, I've been working with XR tech at Masters of Pie, where I've been heavily involved in the development of an immersive GIS application for the defence sector, the "Virtual Birdtable" (VBT). This app allows remotely distributed users to interact with a virtual map-table in AR, VR, or via a desktop application in order to carry out planning / briefing sessions. Check it out in the video [here](https://vimeo.com/919185016).
+  
+I'm Thomas Fisher, a passionate Senior Software Developer specializing in C#, .NET, Unity, and C++. I love creating innovative software solutions and exploring new technologies.
 
 * 🌍  I'm based in Swansea, United Kingdom
 * 🖥️  See my portfolio at [https://thomasfisherse.github.io/](http://thomasfisherse.github.io/)
 * ✉️  You can contact me at [t.d.fisher.se@gmail.com](mailto:t.d.fisher.se@gmail.com)
-* 🚀  I'm currently working on...
-  * [BaristaAI](http://thomasfisherse.github.io/2025-01-10-BaristaAI/) - an AI assistant to help with coffee brewing
-  * [ActivityPlanner](https://thomasfisherse.github.io/2024-12-10-ActivityPlanner/) - an itinerary planner app, mainly for planning my Disney parks holidays
 
-<a href="https://www.github.com/ThomasFisherSE" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/ThomasFisherSE?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+## Education
+I have a Master's degree in Computing (MEng) from Swansea University, where I was awarded for achieving the best overall results by a 4Y degree student in my class and department.
 
-### Skills
+## Career
+In my software development career, I have been fortunate to work with a range of technologies, but have primarily specialized in the XR space.
 
-<p align="left">
-<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" /></a><a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a><a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a><a href="https://dotnet.microsoft.com/en-us/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dot-net-colored.svg" width="36" height="36" alt=".NET" /></a><a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored.svg" width="36" height="36" alt="Amazon Web Services" /></a><a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a><a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a><a href="https://www.raspberrypi.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/raspberrypi-colored.svg" width="36" height="36" alt="Raspberry Pi" /></a>
-</p>
+I worked at Masters of Pie, building an XR collaboration SDK, making it easy for developers to build networked XR applications where multiple connected users can view / change synchronized data models within immersive environments. Also at Masters of Pie, I helped build an immersive GIS application for the defence sector, the "Virtual Birdtable" (VBT), which allowed remotely distributed users to interact with a virtual map-table in AR, VR or via a desktop application in order to carry out planning / briefing sessions. Check it out in the video [here](https://vimeo.com/919185016). 
 
-### Socials
+I then started "Tetra Dragon Software" to do software development contract work.
+
+At present, I am working with [LIV](https://www.liv.tv/) to help build LIV Creator Kit, an SDK that allows users to capture media directly inside XR applications via virtual cameras.
+
+## Top Projects
+[![BaristaAI](https://github-readme-stats.vercel.app/api/pin/?username=ThomasFisherSE&repo=BaristaAI&theme=dark)](https://github.com/ThomasFisherSE/BaristaAI)
+[![Evo-Strike](https://github-readme-stats.vercel.app/api/pin/?username=ThomasFisherSE&repo=Evo-Strike&theme=dark)](https://github.com/ThomasFisherSE/Evo-Strike)
+
+## Skills
+
+[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,unity,cpp,c,rust,java,visualstudio,vscode,rider,clion,git,github,gitlab,windows,linux,raspberrypi,js,html,css,jenkins,aws,docker,cmake&perline=8)](https://skillicons.dev)
+
+## Socials
 
 <p align="left"> <a href="https://www.github.com/ThomasFisherSE" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/ThomasFisherSE" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a> <a href="https://www.youtube.com/@ThomasFisherSE" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /> </picture> </a></p>
 
