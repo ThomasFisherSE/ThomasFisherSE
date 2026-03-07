@@ -7,7 +7,7 @@ Software Developer - C# | C++ | Rust | Unity
 Software Developer specializing in C#, .NET, Unity, C++, and Rust.
 
 * 🌍  I'm based in Swansea, United Kingdom
-* 🖥️  Check out "Tetra-OS", a desktop environment inspired sandbox / portfolio site I've been working on: [https://tetradragon.dev](tetradragon.dev)
+* 🖥️  Check out "Tetra-OS", a desktop environment inspired sandbox / portfolio site I've been working on: [tetradragon.dev](https://tetradragon.dev)
 * 🖊️  Find my GitHub pages blog at [https://thomasfisherse.github.io/](http://thomasfisherse.github.io/)
 * ✉️  You can contact me at [t.d.fisher.se@gmail.com](mailto:t.d.fisher.se@gmail.com)
 
