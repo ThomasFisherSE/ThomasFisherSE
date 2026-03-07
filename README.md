@@ -1,13 +1,14 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I'm Thomas Fisher
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 =====================================================================================================================================
 
-Software Developer - C# | C++ | Unity
+Software Developer - C# | C++ | Rust | Unity
 -------------------------------------
   
-I'm Thomas Fisher, a passionate Senior Software Developer specializing in C#, .NET, Unity, and C++. I love creating innovative software solutions and exploring new technologies.
+Software Developer specializing in C#, .NET, Unity, C++, and Rust.
 
 * 🌍  I'm based in Swansea, United Kingdom
-* 🖥️  See my portfolio at [https://thomasfisherse.github.io/](http://thomasfisherse.github.io/)
+* 🖥️  Check out "Tetra-OS", a desktop environment inspired sandbox / portfolio site I've been working on: [https://tetradragon.dev](tetradragon.dev)
+* 🖊️  Find my GitHub pages blog at [https://thomasfisherse.github.io/](http://thomasfisherse.github.io/)
 * ✉️  You can contact me at [t.d.fisher.se@gmail.com](mailto:t.d.fisher.se@gmail.com)
 
 ## Education
@@ -20,7 +21,7 @@ I worked at Masters of Pie, building an XR collaboration SDK, making it easy for
 
 I then started "Tetra Dragon Software" to do software development contract work.
 
-At present, I am working with [LIV](https://www.liv.tv/) to help build LIV Creator Kit, an SDK that allows users to capture media directly inside XR applications via virtual cameras.
+At present, I am working with [LIV](https://www.liv.tv/), building LIV Camera Kit (LCK), an SDK that allows users to capture media directly inside XR applications via virtual cameras.
 
 ## Top Projects
 [![BaristaAI](https://github-readme-stats.vercel.app/api/pin/?username=ThomasFisherSE&repo=BaristaAI&theme=dark)](https://github.com/ThomasFisherSE/BaristaAI)
