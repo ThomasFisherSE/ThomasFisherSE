@@ -1,7 +1,7 @@
 Hello ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 =====================================================================================================================================
 
-XR | 3D | Game Dev | Machine Learning 
+**XR | 3D | Game Dev | AI/ML**
 
 -------------------------------------
 * :bulb:  Building elegant solutions to complex problems over 10+ years as a software developer
