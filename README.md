@@ -1,15 +1,15 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
+Hello ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 =====================================================================================================================================
 
-Software Developer - C# | C++ | Rust | Unity
--------------------------------------
-  
-Software Developer specializing in C#, .NET, Unity, C++, and Rust.
+XR | 3D | Game Dev | Machine Learning 
 
-* 🌍  I'm based in Swansea, United Kingdom
+-------------------------------------
+* :bulb:  Building simple solutions to complex problems as a software developer for 10+ years, using many tools/languages (e.g. C#, C++, C, Rust, Unity, .NET)
+* 🌍  Based in Swansea, United Kingdom
 * 🖥️  Check out "Tetra-OS", a desktop environment inspired sandbox / portfolio site I've been working on: [tetradragon.dev](https://tetradragon.dev)
 * 🖊️  Find my GitHub pages blog at [https://thomasfisherse.github.io/](http://thomasfisherse.github.io/)
-* ✉️  You can contact me at [t.d.fisher.se@gmail.com](mailto:t.d.fisher.se@gmail.com)
+* ✉️  Contact me at [t.d.fisher.se@gmail.com](mailto:t.d.fisher.se@gmail.com), or via [Linkedn](https://www.linkedin.com/in/ThomasFisherSE)
+-------------------------------------
 
 ## Education
 I have a Master's degree in Computing (MEng) from Swansea University, where I was awarded for achieving the best overall results by a 4Y degree student in my class and department.
