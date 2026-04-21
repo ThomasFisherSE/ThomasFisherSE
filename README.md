@@ -4,24 +4,21 @@ Hello ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-
 XR | 3D | Game Dev | Machine Learning 
 
 -------------------------------------
-* :bulb:  Building simple solutions to complex problems as a software developer for 10+ years, using many tools/languages (e.g. C#, C++, C, Rust, Unity, .NET)
+* :bulb:  Building elegant solutions to complex problems over 10+ years as a software developer
+* 🧰 Experienced with many tools / languages, including: C#, C++, C, Rust, Unity, .NET
 * 🌍  Based in Swansea, United Kingdom
+* 👨‍🎓 MEng Computing, with First Class Honours, and awarded for achieving best overall results in my class and department
 * 🖥️  Check out "Tetra-OS", a desktop environment inspired sandbox / portfolio site I've been working on: [tetradragon.dev](https://tetradragon.dev)
 * 🖊️  Find my GitHub pages blog at [https://thomasfisherse.github.io/](http://thomasfisherse.github.io/)
 * ✉️  Contact me at [t.d.fisher.se@gmail.com](mailto:t.d.fisher.se@gmail.com), or via [Linkedn](https://www.linkedin.com/in/ThomasFisherSE)
 -------------------------------------
 
-## Education
-I have a Master's degree in Computing (MEng) from Swansea University, where I was awarded for achieving the best overall results by a 4Y degree student in my class and department.
-
 ## Career
-In my software development career, I have been fortunate to work with a range of technologies, but have primarily specialized in the XR space.
+The day after my last exam, I started work on pre/post processing UIs for Finite Element Model computational analysis systems, working closely with geomechanics domain experts.
 
-I worked at Masters of Pie, building an XR collaboration SDK, making it easy for developers to build networked XR applications where multiple connected users can view / change synchronized data models within immersive environments. Also at Masters of Pie, I helped build an immersive GIS application for the defence sector, the "Virtual Birdtable" (VBT), which allowed remotely distributed users to interact with a virtual map-table in AR, VR or via a desktop application in order to carry out planning / briefing sessions. Check it out in the video [here](https://vimeo.com/919185016). 
+I then stepped further into the XR space, working on an SDK for providing collaborative XR software, an in-house XR-capable 3D engine, and collaborative XR applications including a [virtual "birdtable"](https://vimeo.com/919185016) for defence sector planning / briefing use-cases which was integrated with existing GIS systems.
 
-I then started "Tetra Dragon Software" to do software development contract work.
-
-At present, I am working with [LIV](https://www.liv.tv/), building LIV Camera Kit (LCK), an SDK that allows users to capture media directly inside XR applications via virtual cameras.
+I've since started a software development contracting business, Tetra Dragon Software, and have been working with [LIV](https://www.liv.tv/), building LIV Camera Kit (LCK), an SDK that allows users to capture media directly inside XR applications via virtual cameras.
 
 ## Top Projects
 [![BaristaAI](https://github-readme-stats.vercel.app/api/pin/?username=ThomasFisherSE&repo=BaristaAI&theme=dark)](https://github.com/ThomasFisherSE/BaristaAI)
