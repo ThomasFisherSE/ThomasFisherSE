@@ -13,10 +13,6 @@ Hello ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-
 * ✉️  Contact me at [t.d.fisher.se@gmail.com](mailto:t.d.fisher.se@gmail.com), or via [Linkedn](https://www.linkedin.com/in/ThomasFisherSE)
 -------------------------------------
 
-## Top Projects
-[![BaristaAI](https://github-readme-stats.vercel.app/api/pin/?username=ThomasFisherSE&repo=BaristaAI&theme=dark)](https://github.com/ThomasFisherSE/BaristaAI)
-[![Evo-Strike](https://github-readme-stats.vercel.app/api/pin/?username=ThomasFisherSE&repo=Evo-Strike&theme=dark)](https://github.com/ThomasFisherSE/Evo-Strike)
-
 ## Skills
 
 [![My Skills](https://skillicons.dev/icons?i=cs,dotnet,unity,cpp,c,rust,java,visualstudio,vscode,rider,clion,git,github,gitlab,windows,linux,raspberrypi,js,html,css,jenkins,aws,docker,cmake&perline=8)](https://skillicons.dev)
