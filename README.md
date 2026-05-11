@@ -13,13 +13,6 @@ Hello ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-
 * ✉️  Contact me at [t.d.fisher.se@gmail.com](mailto:t.d.fisher.se@gmail.com), or via [Linkedn](https://www.linkedin.com/in/ThomasFisherSE)
 -------------------------------------
 
-## Career
-The day after my last exam, I started work on pre/post processing UIs for Finite Element Model computational analysis systems, working closely with geomechanics domain experts.
-
-I then stepped further into the XR space, working on an SDK for providing collaborative XR software, an in-house XR-capable 3D engine, and collaborative XR applications including a [virtual "birdtable"](https://vimeo.com/919185016) for defence sector planning / briefing use-cases which was integrated with existing GIS systems.
-
-I've since started a software development contracting business, Tetra Dragon Software, and have been working with [LIV](https://www.liv.tv/), building LIV Camera Kit (LCK), an SDK that allows users to capture media directly inside XR applications via virtual cameras.
-
 ## Top Projects
 [![BaristaAI](https://github-readme-stats.vercel.app/api/pin/?username=ThomasFisherSE&repo=BaristaAI&theme=dark)](https://github.com/ThomasFisherSE/BaristaAI)
 [![Evo-Strike](https://github-readme-stats.vercel.app/api/pin/?username=ThomasFisherSE&repo=Evo-Strike&theme=dark)](https://github.com/ThomasFisherSE/Evo-Strike)
